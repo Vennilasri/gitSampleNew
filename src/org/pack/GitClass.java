@@ -18,5 +18,12 @@ public class GitClass {
 
 	}
 
+	public void tc4() {
+		System.out.println("Andhra");
+	
+}
+	public void tc5() {
+	System.out.println("UP");
 
+}
 }
