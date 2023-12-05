@@ -17,8 +17,7 @@ public class GitClass {
 	
 
 	}
-
-	public void tc4() {
+public void tc4() {
 		System.out.println("Andhra");
 	
 }
