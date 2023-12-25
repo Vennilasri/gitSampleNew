@@ -17,8 +17,7 @@ public class GitClass {
 	
 
 	}
-
-	public void tc4() {
+      public void tc4() {
 		System.out.println("Andhra");
 	
 }
@@ -26,4 +25,14 @@ public class GitClass {
 	System.out.println("UP");
 
 }
+	
+	public void tc6() {
+		// TODO Auto-generated method stub
+
+	}
+	public void tc7() {
+		// TODO Auto-generated method stub
+
+	}
+	
 }
