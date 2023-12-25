@@ -27,12 +27,26 @@ public class GitClass {
 }
 	
 	public void tc6() {
-		// TODO Auto-generated method stub
+		System.out.println("bangalore");
+
 
 	}
 	public void tc7() {
-		// TODO Auto-generated method stub
+		System.out.println("noida");
+
 
 	}
-	
+	public void chennai() {
+		System.out.println("chennai");
+
+	}
+	public void madurai() {
+		System.out.println("madurai");
+
+	}
+	public void Salem() {
+		System.out.println("salem");
+
+
+	}
 }
