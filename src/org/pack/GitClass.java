@@ -49,4 +49,12 @@ public class GitClass {
 
 
 	}
+	private void different() {
+		// TODO Auto-generated method stub
+
+	}
+	private void same() {
+		// TODO Auto-generated method stub
+
+	}
 }
