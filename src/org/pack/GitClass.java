@@ -57,4 +57,8 @@ public class GitClass {
 		// TODO Auto-generated method stub
 
 	}
+	private void Tech() {
+		System.out.println("Tech");
+
+	}
 }
